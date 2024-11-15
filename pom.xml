@@ -12,7 +12,7 @@
 	<artifactId>craigspetitions</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>CT5171_CA1</name>
+	<name>craigspetitions</name>
 	<description>Assignment 1 for Cloud Computing</description>
 	<url/>
 	<licenses>
