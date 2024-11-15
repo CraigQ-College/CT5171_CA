@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage ('GetProject') {
             steps {
-                git branch:'main', url:'https://github.com/CraigQ-College/CT5171_CA.git'
+                git branch:'master', url:'https://github.com/CraigQ-College/CT5171_CA.git'
             }
         }
         stage ('build') {
